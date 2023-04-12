@@ -1,0 +1,23 @@
+{
+    "Departamentos": [
+      {
+        "nome": "Vendas"
+      },
+      {
+        "nome": "Entregas"
+      },
+      {
+        "nome": "Senac"
+      },
+      {
+        "nome": "Limpeza"
+      },
+      {
+        "nome": "Segurança"
+      },
+      {
+        "nome": "RH"
+      }
+    ]
+  }
+  

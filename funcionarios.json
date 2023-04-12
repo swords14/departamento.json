@@ -1,0 +1,74 @@
+{
+    "Funcionarios": [
+      {
+        "nome": "Carlos Pereira",
+        "cpf": "111.111.111-11",
+        "salary": 5000,
+        "cargo": "Gerente",
+        "departamento": "Vendas"
+      },
+      {
+        "nome": "Maicon Nascimento",
+        "cpf": "222.222.222-22",
+        "salary": 6000,
+        "cargo": "Vendedor",
+        "departamento": "Vendas"
+      },
+      {
+        "nome": "Rogerinho",
+        "cpf": "983.254.782.66",
+        "salary": "2230",
+        "cargo": "Piloto",
+        "departamento": "Entregas"
+      },
+      {
+        "nome": "Tarik Ponciano",
+        "cpf": "123.131.231.66",
+        "salary": 9999999.0,
+        "cargo": "Instrutor",
+        "departamento": "Senac"
+      },
+      {
+        "nome": "Yuri Freitas",
+        "cpf": "123.123.123.12",
+        "salary": 12312312.0,
+        "cargo": "Limpeza",
+        "departamento": "Limpeza"
+      },
+      {
+        "nome": "Alonso da Silva",
+        "cpf": "131.123.149.88",
+        "salary": 5421.0,
+        "cargo": "Portaria",
+        "departamento": "Segurança"
+      },
+      {
+        "nome": "Pedro Campos",
+        "cpf": "876.542.894.99",
+        "salary": 548521.0,
+        "cargo": "Aprendiz",
+        "departamento": "vendas"
+      },
+      {
+        "nome": "Marcos Aguiar",
+        "cpf": "698.754.124.88",
+        "salary": "7894,04",
+        "cargo": "Atendente",
+        "departamento": "Vendas"
+      },
+      {
+        "nome": "Juan Silva",
+        "cpf": "895.674.824.77",
+        "salary": "7452,0",
+        "cargo": "Auxiliar Administrativo",
+        "departamento": "RH"
+      },
+      {
+        "nome": "Henrique Almeida",
+        "cpf": "634.102.782.44",
+        "salary": "6423,0",
+        "cargo": "Vendedor 2",
+        "departamento": "Vendas"
+      }
+    ]
+  }
